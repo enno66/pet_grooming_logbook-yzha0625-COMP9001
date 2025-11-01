@@ -5,8 +5,8 @@ from psycopg2.extras import RealDictCursor
 DB_CONNECT = {
     'host': 'localhost',
     'dbname': 'pet_grooming_logbook',
-    'user': 'postgres',
-    'password': '000925',
+    'user': '',
+    'password': ' ',
     'port': 5432
 }
 
